@@ -46,7 +46,6 @@ MacBook 可通过点击屏幕左上角的苹果图标之后打开“关于本机
 2. 设备不一定需要顶配。除去最低配的 MacBook Air (i3处理器) 以外，其余性能基本可以满足。最低的8GB内存/256GB存储基本可以满足学习阶段的所有任务。
 3. 如果计划购买 iPad，建议购买 iPad Pro。苹果每年的评选都在 iPad Pro 上进行，并要求适配 iPad Pro。
 4. 之后如果获选，参加 WWDC 也是需要携带 MacBook 去现场的。
-5. 苹果近期有针对大学生的教育优惠，如果认识在国内上大学的可以请人协助购买。
 
 ## 软件要求
 
@@ -86,3 +85,5 @@ Upload your Swift playground from your Mac or iPad. Tell us about the features a
 - Technical accomplishment;
 - Creativity of ideas; and
 - Content of written responses.
+
+Source: https://developer.apple.com/wwdc20/swift-student-challenge/
