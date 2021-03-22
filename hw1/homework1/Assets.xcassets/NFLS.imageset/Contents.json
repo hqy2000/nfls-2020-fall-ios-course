@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Logo_of_Nanjing_Foreign_Language_School.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Logo_of_Nanjing_Foreign_Language_School-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Logo_of_Nanjing_Foreign_Language_School-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
